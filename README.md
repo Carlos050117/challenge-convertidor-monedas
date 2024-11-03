@@ -31,7 +31,7 @@ ingresa el valor que deseas convertir y el programa te mostrará el resultado al
 > **Nota: Asegúrate de tener conexión a Internet, ya que el programa necesita acceder a la API para obtener las tasas de cambio en tiempo real.**
 
 ## 🌱 Motivación
-Este conversor fue mi proyecto del challenge del curso de Java que estoy haciendo en el programa ONE de Alura. El desafío era crear un conversor que pudiera trabajar con una API externa, integrando conocimientos de Java, API REST y desarrollo en general.
+Este conversor fue mi proyecto del challenge del curso de Java que estoy haciendo en el programa ONE. El desafío era crear un conversor que pudiera trabajar con una API externa, integrando conocimientos de Java, API REST y desarrollo en general.
 
 ## 📞 Contacto
 
